@@ -48,6 +48,11 @@ public class Arraylistpractice {
         System.out.println("The lowest value in your array is "+ Collections.min(myArray));
         System.out.println("The highest value in your array is "+ Collections.max(myArray));
 
+        DataStructures1 carDealer = new DataStructures1();
+        carDealer.run();
+
+
+
         
     }
 }
