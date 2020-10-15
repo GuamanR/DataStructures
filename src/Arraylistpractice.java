@@ -50,6 +50,9 @@ public class Arraylistpractice {
 
         DataStructures1 carDealer = new DataStructures1();
         carDealer.run();
+        DataStructures2 prob1 = new DataStructures2();
+        prob1.run();
+        DataStructures2.toPower(6, 3);
 
 
 
